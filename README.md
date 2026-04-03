@@ -13,11 +13,16 @@
 
 ## 🚀 About Me
 - 🔭 Building **scalable full-stack and Web3 applications**
-- 🌱 Working with **Blockchain, Smart Contracts & DevOps pipelines**
-- 🧠 Strong focus on **system design & real-world problem solving**
-- 💡 Currently building a **Land Verification Platform (Web3)**
-
+- 🌐 Contributing to the **Stellar ecosystem (Stellar Wave)**
+- ⚙️ Working with **DevOps pipelines & cloud infrastructure**
+- 💡 Building a **Web3 Land Verification Platform**
+- 🧠 Focused on **decentralized systems & real-world impact**
 ---
+
+## 🌌 Web3 & Blockchain
+- ⭐ Contributor to **Stellar Wave**
+- 🔗 Experience with **Clarity smart contracts**
+- ⚡ Building on decentralized infrastructure
 
 ## 🛠️ Tech Stack
 
@@ -40,18 +45,21 @@
 ---
 
 ## 📌 Featured Projects
+
+- 🌊 **Stellar Wave Contribution**  
+  → Contributing to tools and infrastructure within the Stellar ecosystem  
+
 - 🏡 **Web3 Land Verification Platform**  
   → Decentralized system for verifying land ownership & preventing fraud  
 
 - 🍽️ **Restaurant Web App**  
   → Modern UI built with Tailwind  
-
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevSolex&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSolex&layout=compact&theme=tokyonight" />
 </p>
 
 ---
