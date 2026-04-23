@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dev Solex</h1>
-<h3 align="center">Full-Stack Developer | Web3 Engineer | DevOps Enthusiast</h3>
+<h3 align="center">Full-Stack Developer | DevOps Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Engineer;Web3+Builder;DevOps+Engineer;Building+Scalable+Systems;Smart+Contract+Developer&center=true&width=550&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Engineer;DevOps+Engineer;Building+Scalable+Systems&center=true&width=550&height=45">
 </p>
 
 <p align="center">
@@ -13,25 +13,15 @@
 
 ## 🚀 About Me
 - 🔭 Building **scalable full-stack and Web3 applications**
-- 🌐 Contributing to the **Stellar ecosystem (Stellar Wave)**
 - ⚙️ Working with **DevOps pipelines & cloud infrastructure**
-- 💡 Building a **Web3 Land Verification Platform**
-- 🧠 Focused on **decentralized systems & real-world impact**
+- 💡 Building a **Land Verification Platform**
 ---
-
-## 🌌 Web3 & Blockchain
-- ⭐ Contributor to **Stellar Wave**
-- 🔗 Experience with **Clarity smart contracts**
-- ⚡ Building on decentralized infrastructure
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Clarity](https://img.shields.io/badge/Clarity-5546FF?style=for-the-badge&logo=blockchain&logoColor=white)
 
 ### 🌐 Frontend
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -46,11 +36,8 @@
 
 ## 📌 Featured Projects
 
-- 🌊 **Stellar Wave Contribution**  
-  → Contributing to tools and infrastructure within the Stellar ecosystem  
-
-- 🏡 **Web3 Land Verification Platform**  
-  → Decentralized system for verifying land ownership & preventing fraud  
+- 🏡 **Land Verification Platform**  
+  → A system for verifying land ownership & preventing fraud  
 
 - 🍽️ **Restaurant Web App**  
   → Modern UI built with Tailwind  
