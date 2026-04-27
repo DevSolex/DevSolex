@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Building **scalable full-stack and Web3 applications**
+- 🔭 Building **scalable full-stack applications**
 - ⚙️ Working with **DevOps pipelines & cloud infrastructure**
 - 💡 Building a **Land Verification Platform**
 ---
